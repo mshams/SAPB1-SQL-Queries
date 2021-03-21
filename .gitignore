@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SAPB1-SQL-Queries-Public.jfm
+/SAPB1-SQL-Queries-Public.dbmdl
