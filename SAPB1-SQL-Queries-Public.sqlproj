@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Reports\JournalEntry\FUNC_CheckNumber.sql" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Reports\JournalEntry\Query.sql" />
